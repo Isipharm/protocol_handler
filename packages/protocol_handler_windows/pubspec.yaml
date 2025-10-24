@@ -1,6 +1,6 @@
 name: protocol_handler_windows
 description: Windows implementation of the protocol_handler plugin.
-version: 0.2.1
+version: 0.2.0
 repository: https://github.com/leanflutter/protocol_handler/tree/main/packages/protocol_handler_windows
 
 environment:
